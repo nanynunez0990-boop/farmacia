@@ -1,0 +1,9 @@
+conexion.php
+conexion.local.php
+.env
+files/
+*.bak
+captcha/
+codigoqr/
+codigos_barras/
+email/
