@@ -51,7 +51,7 @@ if ($clientesRes) while ($c = $clientesRes->fetch_assoc()) $clientesLista[] = $c
         }
 
         .wrap {
-            width: 100%;
+            width: 10000%;
             max-width: none;
             min-height: 100vh;
             margin: 0;
